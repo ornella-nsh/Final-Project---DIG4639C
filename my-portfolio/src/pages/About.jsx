@@ -5,6 +5,11 @@ export default function About() {
     <FadeInWrapper>
       <section>
         <h2>About Me</h2>
+        <img
+          src="/src/assets/headshot.jpg"
+          alt="Ornella Nshimiyimana Headshot"
+          style={{ width: "300px", borderRadius: "90%" }}
+        />
         <p>
           Hi, I'm Ornella Nshimiyimana. I’m currently pursuing my Web &
           Interactive Design studies at the University of Central Florida. With

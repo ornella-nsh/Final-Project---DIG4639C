@@ -8,7 +8,7 @@ export default function Home() {
         <h1>Hi there, my name is Ornella!</h1>
         <p>Welcome to my portfolio.</p>
         <img
-          src="/assets/homepageimage.jpg"
+          src="src/assets/homepageimage.png"
           alt="... description ..."
           className={styles.homeImage}
         />
